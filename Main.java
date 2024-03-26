@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Write a program that creates the same image as the one assigned.
+ * @ M. Fong 
  *
  */
 class Main {
